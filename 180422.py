@@ -23,4 +23,5 @@ nums = [
         1
         ]
 
+# Print the result
 print random.choice(nums)
